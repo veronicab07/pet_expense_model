@@ -1,0 +1,128 @@
+australian terrier,genetic_ailments,size,insurance_tier,health_insurance,health_insurance_mid,health_insurance_old,liability_insurance,dog_tax
+affenpinscher,hips,1,1,64,74,136,7,10
+australian terrier,patella,1,1,64,74,136,7,10
+basenji,"kidney, eyes",1,1,64,74,136,7,10
+bedlington terrier,none,1,1,64,74,136,7,10
+border terrier,none,1,1,64,74,136,7,10
+boston terrier,"hips, spine, allergies",1,1,64,74,136,7,10
+cairn terrier,heart,1,1,64,74,136,7,10
+cesky terrier,eyes,1,1,64,74,136,7,10
+chihuahua,none,1,1,64,74,136,7,10
+chinese crested,heart,1,1,64,74,136,7,10
+dachshund,"spine, heart, thyroid",1,1,64,74,136,7,10
+dandie dinmont terrier,none,1,1,64,74,136,7,10
+english toy spaniel,"eyes, patella",1,1,64,74,136,7,10
+english toy terrier,dental,1,1,64,74,136,7,10
+glen of imaal terrier,"eyes, hips, elbows, spine",1,1,64,74,136,7,10
+havanese,"hips, spine, dental, thyroid",1,1,64,74,136,7,10
+italian greyhound,"thyroid, eyes, dental",1,1,64,74,136,7,10
+japanese chin,"eyes, patella, heart",1,1,64,74,136,7,10
+maltese,hips,1,1,64,74,136,7,10
+manchester terrier,dental,1,1,64,74,136,7,10
+miniature schnauzer,none,1,1,64,74,136,7,10
+norfolk terrier,"hips, heart",1,1,64,74,136,7,10
+papillon,eyes,1,1,64,74,136,7,10
+pekingese,hips,1,1,64,74,136,7,10
+scottish terrier,"thyroid, hips, allergies",1,1,64,74,136,7,10
+sealyham terrier,eyes,1,1,64,74,136,7,10
+shetland sheepdog,"thyroid, spine, dental, heart",1,1,64,74,136,7,10
+shih tzu,"hips, elbows, dental, allergies",1,1,64,74,136,7,10
+silky terrier,none,1,1,64,74,136,7,10
+skye terrier,"elbows, patella",1,1,64,74,136,7,10
+smooth fox terrier,hips,1,1,64,74,136,7,10
+west highland white terrier,"hips, osteopathy, allergies",1,1,64,74,136,7,10
+wire fox terrier,"spine, allergies",1,1,64,74,136,7,10
+yorkshire terrier,"patella, spine, thyroid",1,1,64,74,136,7,10
+australian shepherd,spine,2,1,64,74,136,7,10
+basset hound,"hips, elbows, bloat",2,1,64,74,136,7,10
+border collie,"hips, spine",2,1,64,74,136,7,10
+cardigan welsh corgi,"hips, spine",2,1,64,74,136,7,10
+norwegian buhund,eyes,2,1,64,74,136,7,10
+pembroke welsh corgi,"hips, spine, heart",2,1,64,74,136,7,10
+swedish vallhund,"eyes, hips",2,1,64,74,136,7,10
+spinone italiano,"hips, thyroid",3,1,64,74,136,7,10
+sussex spaniel,"hips, elbows, metabolic",3,1,64,74,136,7,10
+small mix,,1,1,64,74,136,7,10
+medium mix,,2,1,64,74,136,7,10
+brussels griffon,hips,1,2,72,83,152,7,10
+cavalier king charles spaniel,"hips, spine, heart",1,2,72,83,152,7,10
+kerry blue terrier ,spine,1,2,72,83,152,7,10
+king charles spaniel,"hips, heart, spine",1,2,72,83,152,7,10
+miniature bull terrier,"eyes, heart",1,2,72,83,152,7,10
+petit basset griffon vendeen,none,1,2,72,83,152,7,10
+pomeranian,"hips, patella, thyroid, spine",1,2,72,83,152,7,10
+australian cattle dog,"hips, elbows, eyes, dental",2,2,72,83,152,7,10
+beagle,"hips, bleeding",2,2,72,83,152,7,10
+brittany,"hips, thyroid",2,2,72,83,152,7,10
+cocker spaniel,allergies,2,2,72,83,152,7,10
+finnish lapphund,hips,2,2,72,83,152,7,10
+german pinscher,thyroid,2,2,72,83,152,7,10
+irish terrier,none,2,2,72,83,152,7,10
+polish lowland sheepdog,"hips, eyes",2,2,72,83,152,7,10
+siberian husky,none,2,2,72,83,152,7,10
+soft coated wheaten terrier,"spine, neurological",2,2,72,83,152,7,10
+whippet,"heart, thyroid",2,2,72,83,152,7,10
+bearded collie,thyroid,3,2,72,83,152,7,10
+field spaniel,"hips, heart, thyroid",3,2,72,83,152,7,10
+afghan hound,"thyroid, dental",3,2,72,83,152,7,10
+alaskan malamute,hips,3,2,72,83,152,7,10
+borzoi,thyroid,3,2,72,83,152,7,10
+bouvier des flandres,hips,3,2,72,83,152,7,10
+briard,hips,3,2,72,83,152,7,10
+canaan dog,none,3,2,72,83,152,7,10
+clumber spaniel,"hips, elbows, metabolic",3,2,72,83,152,7,10
+curly coated retriever,hips,3,2,72,83,152,7,10
+english setter,"hips, elbows, thyroid",3,2,72,83,152,7,10
+english springer spaniel,"hips, elbows",3,2,72,83,152,7,10
+german shorthaired pointer,thyroid,3,2,72,83,152,7,10
+german wirehaired pointer,"hips, thyroid",3,2,72,83,152,7,10
+giant schnauzer,"hips, thyroid, urinary",3,2,72,83,152,7,10
+gordon setter,"hips, elbows, eyes, dental, bloat",3,2,72,83,152,7,10
+greyhound,thyroid,3,2,72,83,152,7,10
+irish red and white setter,thyroid,3,2,72,83,152,7,10
+irish setter,"hips, thyroid, bloat",3,2,72,83,152,7,10
+irish water spaniel,"hips, elbows, thyroid, heart",3,2,72,83,152,7,10
+komondor ,"hips, spine",3,2,72,83,152,7,10
+nova scotia duck tolling retriever,"eyes, heart, neurological, spine, kidney, thyroid, cleft palate",3,2,72,83,152,7,10
+otterhound,"hips, elbows, bleeding",3,2,72,83,152,7,10
+pharaoh hound,thyroid,3,2,72,83,152,7,10
+pointer,thyroid,3,2,72,83,152,7,10
+portuguese water dog ,"hips, spine, thyroid",3,2,72,83,152,7,10
+saluki,"heart, thyroid",3,2,72,83,152,7,10
+samoyed,"hips, thyroid",3,2,72,83,152,7,10
+vizsla,none,3,2,72,83,152,7,10
+welsh springer spaniel,"hips, thyroid",3,2,72,83,152,7,10
+wirehaired pointing griffon,none,3,2,72,83,152,7,10
+large mix,,3,2,72,83,152,7,10
+pug,"hips, neurological, spine, elbows, breathing, thyroid",1,3,90,105,194,7,10
+bull terrier,"hips, heart",2,3,90,105,194,20,50
+french bulldog,"hips, dental, spine, breathing",2,3,90,105,194,7,10
+staffordshire bull terrier,"hips, elbows",2,3,90,105,194,20,50
+airedale terrier,"hips, thyroid",3,3,90,105,194,7,10
+akita,"hips, bloat",3,3,90,105,194,7,10
+anatolian shepherd dog,"hips, thyroid",3,3,90,105,194,7,10
+belgian tervuren,none,3,3,90,105,194,7,10
+bernese mountain dog,"hips, elbows, spine",3,3,90,105,194,7,10
+bloodhound,"hips, elbows, eyes, bloat",3,3,90,105,194,7,10
+bullmastiff,"hips, elbows",3,3,90,105,194,7,10
+chesapeake bay retriever,hips,3,3,90,105,194,7,10
+chow chow,"hips, elbows, eyes",3,3,90,105,194,7,10
+flat coated retriever,thyroid,3,3,90,105,194,7,10
+german shepherd,"hips, elbows, spine, bloat",3,3,90,105,194,7,10
+golden retriever,"hips, elbows, skin, allergies",3,3,90,105,194,7,10
+great dane,"heart, hips, bloat",3,3,90,105,194,7,10
+great pyrenees,"hips, eyes",3,3,90,105,194,7,10
+greater swiss mountain dog,"hips, elbows, eyes, bleeding",3,3,90,105,194,7,10
+irish wolfhound,"heart, elbows, respiratory, bloat",3,3,90,105,194,7,10
+labrador,"hips, elbows, liver, allergies",3,3,90,105,194,7,10
+leonberger,"hips, thyroid, neurological",3,3,90,105,194,7,10
+mastiff,"hips, elbows, eyes, spine, heart",3,3,90,105,194,7,10
+newfoundland,"hips, elbows, heart",3,3,90,105,194,7,10
+old english sheepdog,"hips, thyroid, heart, bloat",3,3,90,105,194,7,10
+saint bernard,"hips, elbows, bloat",3,3,90,105,194,7,10
+scottish deerhound,"heart, liver, bloat",3,3,90,105,194,7,10
+tibetan mastiff,"hips, elbows, thyroid",3,3,90,105,194,7,10
+boxer,"hips, spine, heart, thyroid, dental, bloat, allergies",3,4,103,119,222,7,10
+dobermann,"heart, thyroid, bloat",3,4,103,119,222,7,10
+rhodesian ridgeback,"thyroid, spine ",3,4,103,119,222,7,10
+rottweiler,"hips, elbows, thyroid",3,4,103,119,222,7,10

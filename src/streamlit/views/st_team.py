@@ -23,7 +23,7 @@ col2.link_button("LinkedIn", "https://www.linkedin.com/in/natashaaa/")
 col2.link_button("Github", "https://github.com/natasha-a-a")
 
 
-
+col4.image("https://miscprojects.fra1.digitaloceanspaces.com/ds/foto1.jpg")
 col5.write("Senior Data Analyst, with a PhD in Biology")
 col5.link_button("LinkedIn", "https://www.linkedin.com/in/ver%C3%B3nica-benzi-ph-d-168ba81a/")
 
